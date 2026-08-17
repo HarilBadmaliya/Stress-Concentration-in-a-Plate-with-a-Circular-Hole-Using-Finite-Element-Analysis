@@ -1,0 +1,25 @@
+Generated mesh: 1870 nodes, 1768 elements
+Applied 32 boundary condition constraints
+Applied loads to 31 nodes on right edge
+
+Assembling and solving system...
+Condition number of free system: 1.15e+05
+
+============================================================
+  Plate with Central Hole: FEM Results
+============================================================
+Geometry       : 0.400 × 0.200 m, R = 0.020 m
+Nodes          : 1,870
+Elements       : 1,768
+DOFs           : 3,740
+Constrained    : 32
+------------------------------------------------------------
+Max |u|        :   211.166 μm
+Max σ_xx       :    217.58 MPa
+Nominal σ_xx   :    100.00 MPa
+SCF (σ_max/σ_0):      2.18
+Theory (Kirsch):      3.00
+============================================================
+
+
+NOTE: Output plots are saved in main tree as Deformed_shape_scale1000.png and von_mises_stress.png
