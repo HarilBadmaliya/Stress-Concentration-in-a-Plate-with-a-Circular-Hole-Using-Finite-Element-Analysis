@@ -1,0 +1,1 @@
+# Stress-Concentration-in-a-Plate-with-a-Circular-Hole-Using-Finite-Element-Analysis
