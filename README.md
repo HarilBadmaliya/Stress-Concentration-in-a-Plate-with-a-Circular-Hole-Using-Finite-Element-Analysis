@@ -281,7 +281,10 @@ if cond > 1e12:
 
 ### Graphical Outputs & Visualization
 *   **Deformed Shape Plot:** Visualizes the exaggerated structural response under tensile load (scaled by 1000x for visibility). Red nodes indicate deformed positions against grey original coordinates, clearly demonstrating the circular hole pulling into an elliptical shape.
+![Deformed_shape](Deformed_shape_scale1000.png)
+
 *   **von Mises Stress Distribution:** A professional contour plot showcasing force redistribution. As predicted by continuum mechanics theory, the highest stress concentrations (highlighted in yellow) localize precisely at the top and bottom edges of the hole boundary.
+![von_mises_stress](von_mises_stress.png)
 
 ### Physical Insights
 Successfully translated raw mathematical output into tangible engineering insights—quantifying structural deformation, visualizing force redistribution, identifying critical failure points for design optimization, and proving a deep understanding of how geometry affects stress concentrations.
